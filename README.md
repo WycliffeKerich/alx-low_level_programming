@@ -1,2 +1,1 @@
-# alx-low_level_programming
-C Programming Directory
+0x0x-hello_world README.md
