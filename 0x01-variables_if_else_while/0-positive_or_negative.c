@@ -5,6 +5,7 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
+  /* Check whether random number is positive or negative */
   int n;
 
   srand(time(0));
